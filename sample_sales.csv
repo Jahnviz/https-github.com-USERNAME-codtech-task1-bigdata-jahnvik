@@ -1,0 +1,6 @@
+order_id,date,category,product,sales,quantity
+1,2025-01-01,Electronics,Phone,250,1
+2,2025-01-02,Clothing,Shirt,40,2
+3,2025-01-03,Electronics,Laptop,1200,1
+4,2025-01-04,Home,Vacuum,150,1
+5,2025-01-05,Clothing,Jeans,60,1
